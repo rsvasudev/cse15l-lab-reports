@@ -22,7 +22,7 @@ This is what happened when ls is used without an argument. A list of all the con
 
 ![Image](ls_w_arg.png)
 
-This is what happened when ls is used w a path or directory. it lists the contents in that directory.
+This is what happened when ls is used w a path or directory. It lists the contents in that directory.
 
 ![Image](ls_w_file.png)
 
