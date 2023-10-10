@@ -11,6 +11,6 @@ This is what happened when cd was entered into the terminal without an argument.
 
 This is what happened when cd was entered into the terminal with a path or directory as the argument. In this case the directory is essentially moved into lecture 1.
 
-![Image](cd_w_file.png)
+![Image](cd-w-arg.png)
 
 
