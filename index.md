@@ -26,5 +26,13 @@ This is what happened when ls is used w a path or directory. It lists the conten
 
 ![Image](ls_w_file.png)
 
-This is what happened when ls is used w a file. 
+This is what happened when ls is used w a file. The file name is the only thing displayed in the output.
+
+![Image](cat_w_no_arg.png)
+
+## cat
+
+This is what happened when cat is used without any arguments
+
+
 
