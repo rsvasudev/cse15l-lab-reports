@@ -13,4 +13,8 @@ This is what happened when cd was entered into the terminal with a path or direc
 
 ![Image](cd-w-arg.png)
 
+This is what happened when cd was entered w a file. It is not possible as cd only takes directories as arguments. As a file and not a directory this causes an error
+
+![Image](cd_w_file.png)
+
 
