@@ -20,11 +20,11 @@ This is what happened when cd was entered w a file. It is not possible as cd onl
 
 This is what happened when ls is used without an argument. A list of all the contents of the current directory is displayed.
 
-![Image](ls_w_no_arg.png)
+![Image](ls_w_arg.png)
 
 This is what happened when ls is used w a path or directory. it lists the contents in that directory.
 
-![Image](ls_w_arg.png)
+![Image](ls_w_file.png)
 
 This is what happened when ls is used w a file. 
 
