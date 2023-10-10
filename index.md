@@ -35,7 +35,13 @@ This is what happened when ls is used with a file. The file name is the only thi
 This is what happened when cat is used without any arguments. Nothing happens just a blank output is displayed.
 ![Image](cat.png)
 
-This is what happened when cat is used with a path 
+This is what happened when cat is used with a path or directory. It doesnt work as the argument is a directory.
+![Image](cat_w_arg.png)
+
+This is what happened when cat is used with a file. It displays the text in the file.
+![Image](cat_w_file.png)
+
+
 
 
 
